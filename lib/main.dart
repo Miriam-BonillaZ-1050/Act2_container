@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Container en Fila, Miriam Bonilla 1050'),
+          title: const Text('Container en Fila,Miriam Bonilla 1050'),
           backgroundColor: Colors.purple,
         ),
         body: Center(
